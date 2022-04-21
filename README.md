@@ -1,4 +1,4 @@
-# Predict-Customer-Satisfaction
+# Predict Customer Satisfaction
 
 Customer satisfaction is defined as a measurement that determines how happy customers are with a company’s products, services, and capabilities. Customer satisfaction information, including surveys and ratings, can help a company determine how to best improve or changes its products and services. An organization’s main focus must be to satisfy its customers. This applies to industrial firms, retail and wholesale businesses, government bodies, service companies, nonprofit organizations, and every subgroup within an organization [1].
 
@@ -11,4 +11,4 @@ For this project, we will be using data provided by Santander Bank. The bank has
 
 However, it is still possible to identify high impact predictors which will be of great use for the Santander Bank.
 
-Note: The "TARGET" column is the variable to predict. It equals 1 for unsatisfied customers and 0 for satisfied customers.
+> Note: The "TARGET" column is the variable to predict. It equals 1 for unsatisfied customers and 0 for satisfied customers.
